@@ -27,7 +27,6 @@ Welcome to my digital space! I specialize in bridge-building between software an
 
 ## 📊 GitHub Performance
 ![Umar's Stats](https://github-readme-stats.vercel.app/api?username=umarxdev1&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&layout=compact&theme=dark&hide_border=true)
 
 ---
 
