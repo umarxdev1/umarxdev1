@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=M%20Umar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
+<!-- Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%F0%9F%8E%93;Python+%26+C%2B%2B+Developer+%F0%9F%92%BB;DSA+%26+OOP+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
@@ -22,7 +22,7 @@
 Hi, I’m **M Umar** 👋  
 I’m a **BS Software Engineering** student (2024–2028) from **Pakistan 🇵🇰**, passionate about building **efficient, scalable, and maintainable software**.  
 
-I focus on **Python and C++**, diving deep into **Data Structures, Object-Oriented Programming**, and **algorithmic problem-solving**. I also enjoy contributing to **open-source projects** and exploring creative ways to combine **technology and content creation**.
+I focus on **Python and C++**, diving deep into **Data Structures, Object-Oriented Programming**, and **algorithmic problem-solving**. I enjoy contributing to **open-source projects** and exploring creative ways to combine **technology and content creation**.
 
 ### 🔭 Currently Working On
 - Real-world projects in **Python and C++**  
@@ -32,7 +32,7 @@ I focus on **Python and C++**, diving deep into **Data Structures, Object-Orient
 ### 🤝 Open to Collaborate On
 - **Open-source Python & C++ projects**  
 - **Algorithmic challenges** and competitive coding  
-- **Scalable software architecture**  
+- **Scalable software design**  
 
 ### 🌱 Currently Learning
 - Advanced **Data Structures & Algorithms**  
@@ -104,10 +104,7 @@ I combine **video editing**, **content creation**, and **tech curiosity**, alway
 
 <div align="center">
 
-<img src="assets/trophies/total-commits.png" width="80" />
-<img src="assets/trophies/followers.png" width="80" />
-<img src="assets/trophies/opensource.png" width="80" />
-<img src="assets/trophies/stars.png" width="80" />
+<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=algolia&no-frame=true&no-bg=false&margin-w=15&column=4" />
 
 </div>
 
