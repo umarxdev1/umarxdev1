@@ -16,23 +16,33 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MUmar:
-    def __init__(self):
-        self.name        = "M Umar"
-        self.degree      = "BS Software Engineering (2024–2028)"
-        self.location    = "Pakistan 🇵🇰"
-        self.languages   = ["Python", "C++", "HTML"]
-        self.focus       = ["DSA", "OOP", "Algorithmic Problem Solving"]
-        self.interests   = ["Open Source", "Competitive Coding", "Content Creation"]
-        self.fun_fact    = "I mix video editing & new tech curiosity 🎬⚡"
+Hi, I’m **M Umar** 👋  
+I’m a **BS Software Engineering** student (2024–2028) from **Pakistan 🇵🇰**, passionate about building **efficient, scalable, and maintainable software**.  
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together.")
+I focus on **Python and C++**, diving deep into **Data Structures, Object-Oriented Programming**, and **algorithmic problem-solving** to strengthen my software engineering skills. I also enjoy contributing to **open-source projects** and exploring creative ways to combine **technology and content creation**.
 
-me = MUmar()
-me.say_hi()
-```
+### 🔭 Currently Working On
+- Real-world projects in **Python and C++**  
+- Implementing **DSA-based solutions**  
+- Applying **OOP concepts** to scalable systems  
+
+### 🤝 Open to Collaborate On
+- **Open-source Python & C++ projects**  
+- **Algorithmic challenges** and competitive coding  
+- **Scalable software design**  
+
+### 🌱 Currently Learning
+- Advanced **Data Structures & Algorithms**  
+- **Efficient software design** & system architecture  
+- Building **robust and maintainable software**  
+
+### 💬 Ask Me About
+- Python & C++ programming  
+- Problem-solving strategies and competitive coding  
+- OOP concepts and software design  
+
+### ⚡ Fun Fact
+I combine **video editing**, **content creation**, and **tech curiosity**, always exploring creative ways to learn and build efficiently 🎬⚡
 
 ---
 
