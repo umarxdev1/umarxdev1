@@ -100,7 +100,9 @@ I combine **video editing**, **content creation**, and **tech curiosity**, alway
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=nord&no-frame=true&no-bg=false&column=7&margin-w=4" />
+
 </div>
 
 ---
