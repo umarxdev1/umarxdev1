@@ -62,14 +62,3 @@ I combine **video editing**, **content creation**, and a curiosity for **new tec
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
----
-
-## 🌟 Visitor Count
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=umarxdev1&icon=0&color=0" /></a>
-</p>
-
----
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
