@@ -102,7 +102,14 @@ I combine **video editing**, **content creation**, and **tech curiosity**, alway
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=nord&no-frame=true&no-bg=false&column=7&margin-w=4" />
+<div align="center">
+
+<img src="assets/trophies/total-commits.png" width="80" />
+<img src="assets/trophies/followers.png" width="80" />
+<img src="assets/trophies/opensource.png" width="80" />
+<img src="assets/trophies/stars.png" width="80" />
+
+</div>
 
 ---
 
