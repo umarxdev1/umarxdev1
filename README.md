@@ -97,18 +97,13 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarxdev1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=umarxdev1&theme=github_dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=umarxdev1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+<br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=umarxdev1&theme=github_dark&hide_border=false" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies
