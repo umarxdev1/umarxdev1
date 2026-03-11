@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=M%20Umar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%F0%9F%8E%93;Python+%26+C%2B%2B+Developer+%F0%9F%92%BB;DSA+%26+OOP+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=umarxdev1&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/umarxdev1?style=for-the-badge&color=1f6feb&labelColor=0d1117&label=FOLLOWERS" />
@@ -43,36 +40,17 @@ me.say_hi()
 
 ## 🚀 What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
+| 🔭 Currently Working On | 🤝 Open to Collaborate On |
+|---|---|
+| Projects in **Python** and **C++** | **Open-source** Python & C++ projects |
+| **DSA-based solutions** in real-world apps | **Algorithmic challenges** & competitive coding |
+| **OOP concepts** applied to scalable systems | Scalable software architecture |
 
-**🔭 Currently Working On**
-- Projects in **Python** and **C++**
-- **DSA-based solutions** in real-world apps
-- **OOP concepts** applied to scalable systems
-
-**🌱 Currently Learning**
-- Advanced **Data Structures & Algorithms**
-- **Efficient software design** & system architecture
-- Building **robust, maintainable software**
-
-</td>
-<td width="50%">
-
-**🤝 Open to Collaborate On**
-- **Open-source** Python & C++ projects
-- **Algorithmic challenges** & competitive coding
-- Scalable software architecture
-
-**💬 Ask Me About**
-- Python & C++ programming patterns
-- Problem-solving & competitive coding
-- OOP concepts & software design
-
-</td>
-</tr>
-</table>
+| 🌱 Currently Learning | 💬 Ask Me About |
+|---|---|
+| Advanced **Data Structures & Algorithms** | Python & C++ programming patterns |
+| **Efficient software design** & system architecture | Problem-solving & competitive coding strategies |
+| Building **robust, maintainable software** | OOP concepts & scalable software design |
 
 ---
 
@@ -97,13 +75,18 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umarxdev1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-<br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=umarxdev1&theme=github_dark&hide_border=false" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarxdev1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=umarxdev1&theme=github_dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -133,7 +116,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
 
 *⚡ "Combining curiosity, code, and creativity — one commit at a time."*
