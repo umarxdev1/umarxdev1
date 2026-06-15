@@ -116,7 +116,7 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
