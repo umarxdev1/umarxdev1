@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=M%20Umar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Muhammad%20Umar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%F0%9F%8E%93;Python+%26+C%2B%2B+Developer+%F0%9F%92%BB;DSA+%26+OOP+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -96,12 +96,12 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarxdev1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=umarxdev1&theme=github_dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=umarxdev1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" />
+<img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=umarxdev1&theme=github_dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
