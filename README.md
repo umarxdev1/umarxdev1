@@ -111,7 +111,7 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 <div align="center">
 
-<img src="./assets/trophies.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
