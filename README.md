@@ -1,43 +1,37 @@
-# 👋 About Me
+<!-- HEADER -->
+<h1 align="center">Muhammad Umar</h1>
+<h3 align="center">Software Engineering Student | Python • C++ • DSA • Cybersecurity</h3>
 
-I'm **Muhammad Umar**, a Software Engineering student (2024–2028) from Pakistan 🇵🇰.
-
-I’m currently building a strong foundation in **C++, Python, Data Structures & Algorithms, and Object-Oriented Programming**, with a focus on writing clean, scalable, and well-structured code. My approach is practical: I learn by building and breaking things.
-
-Alongside academics, I explore **cybersecurity fundamentals** and create **tech + self-improvement content** on social platforms, where I’ve built an audience of 67k+ subscribers.
-
-My long-term goal is to become a skilled software engineer capable of building impactful products and contributing meaningfully to open-source ecosystems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Clean+Code+Builder;DSA+Learner;Cybersecurity+Explorer;Open-Source+Contributor+in+Progress" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 About Me
 
-## 💻 Languages
-- C++
-- Python
-- HTML
-- JavaScript (basic)
+I’m **Muhammad Umar**, a Software Engineering student (2024–2028) from Pakistan 🇵🇰.
 
-## ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Linux (basic)
-- CapCut (content editing workflow)
+I focus on building strong fundamentals in **C++, Python, Data Structures, Algorithms, and OOP**, with an emphasis on writing clean and efficient code instead of just “making things work”.
 
----
+Alongside development, I explore **cybersecurity concepts** and build real-world technical understanding through practice, not theory alone.
 
-# 📌 Currently
+Outside coding, I run a content platform with **67k+ followers**, where I share tech and self-improvement content.
 
-| Area          | Focus                                  |
-|--------------|----------------------------------------|
-| Learning     | C++, Python, DSA, OOP, Software Design |
-| Building     | Academic + personal projects           |
-| Exploring    | Cybersecurity fundamentals              |
-| Open to      | Beginner-friendly open-source work      |
+My mindset is simple:  
+**build skills → build projects → build impact**
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umarxdev1&show_icons=true&theme=tokyonight" />
@@ -46,36 +40,56 @@ My long-term goal is to become a skilled software engineer capable of building i
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-- YouTube: Sigma Guideline (67k+ subscribers)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umarxdev1/umarxdev1/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Strengthening DSA problem solving
+- Building small but consistent coding projects
+- Learning cybersecurity fundamentals
+- Improving software design thinking
+
+---
+
+## 🌐 Connect With Me
+
+- YouTube: Sigma Guideline (67k+)
 - TikTok: @sigmaguideline_official
 - Instagram: @sigmaguideline
 
 ---
 
-# 🚀 Projects
+## ⚡ Philosophy
 
-> No major public projects yet, but actively building and updating soon.
-
----
-
-> *Turning curiosity into code, one commit at a time.*
+> “Skill beats talent when talent doesn’t build skill.”
 
 ---
 
-# 📈 Suggested Improvements
+<!-- SNAKE SETUP NOTE (IMPORTANT) -->
+<!-- You must enable GitHub Actions for snake generation -->
+<!-- Repo required: .github/workflows/snake.yml -->
 
-1. Add at least 2 real pinned repositories with proper READMEs, otherwise recruiters will ignore your profile.
-2. Start documenting every project, even small ones, with screenshots and usage instructions.
-3. Replace "No projects yet" with ongoing work, otherwise it signals inactivity.
-4. Add LinkedIn or portfolio site to improve credibility beyond social media presence.
-5. Once you build real projects, remove generic phrases like “learning” and replace with proof-based statements.
+---
+
+## 📌 Suggested Reality Check
+
+If your repos are empty or low quality, this README will NOT help you.
+
+A top 1% profile is:
+- 20% README
+- 80% real projects and consistency
+  
