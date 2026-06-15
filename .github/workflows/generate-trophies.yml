@@ -1,37 +1,21 @@
-name: Generate GitHub Trophies
-
+name: Update Trophies
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight
-  workflow_dispatch:      # allows manual trigger
-
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 jobs:
-  generate-trophies:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      - name: Install github-profile-trophy
-        run: npm install -g github-profile-trophy
-
-      - name: Generate Trophies
+      - uses: actions/checkout@v3
+      - name: Fetch Trophy SVG
         run: |
-          mkdir -p assets/trophies
-          github-profile-trophy \
-            --username umarxdev1 \
-            --theme nord \
-            --output assets/trophies
-
+          mkdir -p assets
+          curl -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=nord&no-frame=true&row=1&column=7"
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/trophies/
-          git commit -m "Update GitHub trophies [skip ci]" || echo "No changes"
+          git add assets/trophies.svg
+          git commit -m "Update trophies [skip ci]" || echo "No changes"
           git push
