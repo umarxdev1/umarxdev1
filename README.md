@@ -109,7 +109,7 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=nord&no-frame=true&row=1&column=7" />
+<img src="./assets/trophies.svg" />
 
 </div>
 
