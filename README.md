@@ -92,26 +92,21 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=umarxdev1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" />
-<img height="180px" src="https://streak-stats.demolab.com/?user=umarxdev1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-<br/><br/>
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarxdev1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&margin-w=8&title=Commits,Repositories,PullRequest,Issues" />
 
 </div>
 
