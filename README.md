@@ -1,72 +1,28 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Muhammad%20Umar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Muhammad%20Umar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%F0%9F%8E%93;Python+%26+C%2B%2B+Developer+%F0%9F%92%BB;DSA+%26+OOP+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%F0%9F%8E%93;C%2B%2B+%26+Python+Developer;DSA+%26+OOP+in+Progress;Building+Real+Projects%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=umarxdev1&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/umarxdev1?style=for-the-badge&color=1f6feb&labelColor=0d1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/GITHUB-umarxdev1-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hi, I'm **Muhammad Umar** 👋  
-I’m a **BS Software Engineering** student (2024–2028) from **Pakistan 🇵🇰**.  
+I'm **Muhammad Umar**, a Software Engineering student (2024–2028) based in Pakistan 🇵🇰.
 
-I'm currently learning **Python and C++**, while exploring **Data Structures & Algorithms** and **Object-Oriented Programming**. I enjoy solving programming problems, building projects, and continuously improving my software development skills.
+Currently in my second year, I'm building a strong foundation in **C++, Python, Data Structures & Algorithms, and Object-Oriented Programming**. I focus on writing clean, well-structured code and developing projects that solve real problems.
 
-My goal is to become a skilled software engineer, contribute to meaningful projects, and build solutions that create real value.
+Outside of coursework, I explore **cybersecurity concepts** and create **tech and self-improvement content** on YouTube and TikTok, where I've grown an audience of 67k+ subscribers.
 
-### 🔭 Currently Working On
-- Learning and improving **Python and C++**  
-- Practicing **Data Structures & Algorithms**  
-- Strengthening **Object-Oriented Programming** concepts  
-
-### 🤝 Open to Collaborate On
-- Beginner-friendly **open-source projects**
-- **Python and C++ projects**
-- **Programming practice projects**
-- **Educational and learning-focused software projects**  
-
-### 🌱 Currently Learning
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming**
-- **Problem-Solving Techniques**
-- **Software Design Fundamentals**  
-
-### 💬 Ask Me About
-- Python
-- C++
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Programming Learning Resources
-
-### ⚡ Fun Fact
-Besides programming, I enjoy **video editing** and **content creation**. I like combining **technology, creativity, and continuous learning**.
----
-
-## 🚀 What I'm Up To
-
-| 🔭 Currently Working On | 🤝 Open to Collaborate On |
-|---|---|
-| Learning **Python** and **C++** | Beginner-friendly **open-source projects** |
-| Practicing **DSA** and problem solving | **Python and C++ projects** |
-| Building academic and personal projects | Programming practice projects |
-
-| 🌱 Currently Learning | 💬 Ask Me About |
-|---|---|
-| **Data Structures & Algorithms** | **Python & C++** |
-| **Object-Oriented Programming** | **DSA** problem solving |
-| **Software Design Fundamentals** | Programming **learning** resources |
+My goal: become a skilled software engineer who builds meaningful products and contributes to impactful open-source work.
 
 ---
 
@@ -88,6 +44,17 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
+
+---
+
+## 📌 Currently
+
+| Area | Focus |
+|---|---|
+| **Learning** | C++, Python, DSA, OOP, Software Design |
+| **Building** | Academic projects and personal tools |
+| **Exploring** | Cybersecurity fundamentals |
+| **Open to** | Beginner-friendly open-source collaboration |
 
 ---
 
@@ -145,6 +112,6 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
 
-*⚡ "Turning curiosity into code, one project at a time."*
+*"Turning curiosity into code, one commit at a time."*
 
 </div>
