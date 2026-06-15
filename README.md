@@ -116,6 +116,16 @@ Besides programming, I enjoy **video editing** and **content creation**. I like 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&margin-w=8&title=Commits,Repositories,PullRequest,Issues" />
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
