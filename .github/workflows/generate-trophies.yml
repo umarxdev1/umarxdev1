@@ -1,21 +1,24 @@
-name: Update Trophies
+name: Update GitHub Profile README
+
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
-  update:
+  update-readme:
+    name: Update README with latest stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Fetch Trophy SVG
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README timestamp
         run: |
-          mkdir -p assets
-          curl -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=nord&no-frame=true&row=1&column=7"
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/trophies.svg
-          git commit -m "Update trophies [skip ci]" || echo "No changes"
-          git push
+          echo "README refresh triggered at $(date -u '+%Y-%m-%d %H:%M UTC')"
