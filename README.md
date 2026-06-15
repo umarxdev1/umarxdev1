@@ -19,49 +19,54 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **M Umar** 👋  
-I’m a **BS Software Engineering** student (2024–2028) from **Pakistan 🇵🇰**, passionate about building **efficient, scalable, and maintainable software**.  
+Hi, I'm **Muhammad Umar** 👋  
+I’m a **BS Software Engineering** student (2024–2028) from **Pakistan 🇵🇰**.  
 
-I focus on **Python and C++**, diving deep into **Data Structures, Object-Oriented Programming**, and **algorithmic problem-solving**. I enjoy contributing to **open-source projects** and exploring creative ways to combine **technology and content creation**.
+I'm currently learning **Python and C++**, while exploring **Data Structures & Algorithms** and **Object-Oriented Programming**. I enjoy solving programming problems, building projects, and continuously improving my software development skills.
+
+My goal is to become a skilled software engineer, contribute to meaningful projects, and build solutions that create real value.
 
 ### 🔭 Currently Working On
-- Real-world projects in **Python and C++**  
-- Implementing **DSA-based solutions**  
-- Applying **OOP concepts** to scalable systems  
+- Learning and improving **Python and C++**  
+- Practicing **Data Structures & Algorithms**  
+- Strengthening **Object-Oriented Programming** concepts  
 
 ### 🤝 Open to Collaborate On
-- **Open-source Python & C++ projects**  
-- **Algorithmic challenges** and competitive coding  
-- **Scalable software design**  
+- Beginner-friendly **open-source projects**
+- **Python and C++ projects**
+- **Programming practice projects**
+- **Educational and learning-focused software projects**  
 
 ### 🌱 Currently Learning
-- Advanced **Data Structures & Algorithms**  
-- **Efficient software design** & system architecture  
-- Building **robust and maintainable software**  
+- **Data Structures & Algorithms**
+- **Object-Oriented Programming**
+- **Problem-Solving Techniques**
+- **Software Design Fundamentals**  
 
 ### 💬 Ask Me About
-- Python & C++ programming  
-- Problem-solving strategies and competitive coding  
-- OOP concepts and software design  
+- Python
+- C++
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Programming Learning Resources
 
 ### ⚡ Fun Fact
-I combine **video editing**, **content creation**, and **tech curiosity**, always exploring creative ways to learn and build efficiently 🎬⚡
-
+Besides programming, I enjoy **video editing** and **content creation**. I like combining **technology, creativity, and continuous learning**.
 ---
 
 ## 🚀 What I'm Up To
 
 | 🔭 Currently Working On | 🤝 Open to Collaborate On |
 |---|---|
-| Projects in **Python** and **C++** | **Open-source** Python & C++ projects |
-| **DSA-based solutions** in real-world apps | **Algorithmic challenges** & competitive coding |
-| **OOP concepts** applied to scalable systems | Scalable software architecture |
+| Learning **Python** and **C++** | Beginner-friendly **open-source projects** |
+| Practicing **DSA** and problem solving | **Python and C++ projects** |
+| Building academic and personal projects | Programming practice projects |
 
 | 🌱 Currently Learning | 💬 Ask Me About |
 |---|---|
-| Advanced **Data Structures & Algorithms** | Python & C++ programming patterns |
-| **Efficient software design** & system architecture | Problem-solving & competitive coding strategies |
-| Building **robust, maintainable software** | OOP concepts & scalable software design |
+| **Data Structures & Algorithms** | **Python & C++** |
+| **Object-Oriented Programming** | **DSA** problem solving |
+| **Software Design Fundamentals** | Programming **learning** resources |
 
 ---
 
@@ -129,6 +134,6 @@ I combine **video editing**, **content creation**, and **tech curiosity**, alway
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
 
-*⚡ "Combining curiosity, code, and creativity — one commit at a time."*
+*⚡ "Turning curiosity into code, one project at a time."*
 
 </div>
