@@ -1,94 +1,34 @@
-<!-- HEADER -->
-<h1 align="center">Muhammad Umar</h1>
-<h3 align="center">Software Engineering Student | Python • C++ • DSA • Cybersecurity</h3>
+<!-- NEON HEADER -->
+<h1 align="center" style="color:#00ffe1;">⚡ Muhammad Umar ⚡</h1>
+
+<h3 align="center" style="color:#ffffff;">
+Software Engineering Student • C++ • Python • DSA • Cybersecurity
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Clean+Code+Builder;DSA+Learner;Cybersecurity+Explorer;Open-Source+Contributor+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=Neon+Mode+Activated;Building+Clean+Code+Systems;DSA+%7C+Python+%7C+C%2B%2B+Focused;Cybersecurity+Explorer;Open-Source+In+Progress" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I’m **Muhammad Umar**, a Software Engineering student (2024–2028) from Pakistan 🇵🇰.
-
-I focus on building strong fundamentals in **C++, Python, Data Structures, Algorithms, and OOP**, with an emphasis on writing clean and efficient code instead of just “making things work”.
-
-Alongside development, I explore **cybersecurity concepts** and build real-world technical understanding through practice, not theory alone.
-
-Outside coding, I run a content platform with **67k+ followers**, where I share tech and self-improvement content.
-
-My mindset is simple:  
-**build skills → build projects → build impact**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,linux,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🌌 NEON STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarxdev1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarxdev1&layout=compact&theme=tokyonight" />
+
+<img src="https://img.shields.io/badge/Focus-Deep%20Learning-00ffe1?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Mode-Builder-ff00ff?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-00ff88?style=for-the-badge&labelColor=0d0d0d" />
+
 </p>
 
 ---
 
-## 🏆 Achievements
+## 👾 ABOUT ME
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarxdev1&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/umarxdev1/umarxdev1/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- Strengthening DSA problem solving
-- Building small but consistent coding projects
-- Learning cybersecurity fundamentals
-- Improving software design thinking
-
----
-
-## 🌐 Connect With Me
-
-- YouTube: Sigma Guideline (67k+)
-- TikTok: @sigmaguideline_official
-- Instagram: @sigmaguideline
-
----
-
-## ⚡ Philosophy
-
-> “Skill beats talent when talent doesn’t build skill.”
-
----
-
-<!-- SNAKE SETUP NOTE (IMPORTANT) -->
-<!-- You must enable GitHub Actions for snake generation -->
-<!-- Repo required: .github/workflows/snake.yml -->
-
----
-
-## 📌 Suggested Reality Check
-
-If your repos are empty or low quality, this README will NOT help you.
-
-A top 1% profile is:
-- 20% README
-- 80% real projects and consistency
+```txt
+Name        : Muhammad Umar
+Role        : Software Engineering Student (2024–2028)
+Location    : Pakistan 🇵🇰
+Focus       : C++, Python, DSA, OOP
+Interest    : Cybersecurity + System Thinking
+Side Quest  : Content Creator (67K+ audience)
